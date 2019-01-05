@@ -30,7 +30,7 @@ public class FlappyBird extends ApplicationAdapter {
 
 	Texture topTube;
 	Texture bottomTube;
-	float gap =400;
+	float gap = 500;
     float maxTubeOffset;
     Random randomGenerator;
     float tubeVelocity = 4;
@@ -42,7 +42,7 @@ public class FlappyBird extends ApplicationAdapter {
     Rectangle[] bottomTubeRectangles;
 
 	int gameState = 0;
-	float gravity = (float) 1.5;
+	float gravity = (float) 1.3;
 
 	@Override
 	public void create () {
