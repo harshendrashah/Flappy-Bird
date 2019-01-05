@@ -1,3 +1,3 @@
 # Flappy Bird
 
-Reimplementation of the game Flappy Bird using LibGDX Graphics.
+Re-implementation of the game Flappy Bird using LibGDX Graphics.
